@@ -1,9 +1,4 @@
 
-# coding: utf-8
-
-# In[12]:
-
-
 #a.Load CSV in Python by skipping second row.
 import pandas as pd
 import numpy as np
